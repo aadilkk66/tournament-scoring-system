@@ -41,3 +41,14 @@ This application enables the management of a tournament involving both team and 
 - Database integration
 - Export results to CSV files
 - Multiple tournament support
+
+## Design Documentation
+ 
+The repository includes:
+ 
+- System architecture diagram
+- Pseudocode
+- Flowcharts
+- Project documentation
+ 
+These demonstrate the design, development, testing and optimisation stages used throughout the project.
